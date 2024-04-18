@@ -37,4 +37,5 @@ Simply run `python main.py -d ICEWS14`
 Some of the codes are inspired by:
 - https://github.com/Lee-zix/CEN
 - https://github.com/INK-USC/RE-Net
+  
 We express gratitude for all the previous contributions in this area.
