@@ -39,3 +39,5 @@ Some of the codes are inspired by:
 - https://github.com/INK-USC/RE-Net
   
 We express gratitude for all the previous contributions in this area.
+
+If you can't replicate the results reported in the paper using the default hyperparameter, please consider updating your torch and dgl package version.
